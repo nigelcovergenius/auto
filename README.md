@@ -24,5 +24,5 @@ This tutorial will help you to install and set up the car damage detector web ap
 
 #### Author
 
-**Ravi Ranjan**
+**Ravi Ranjan** modified by **Nigel Ike .O"
 
