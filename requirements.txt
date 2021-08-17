@@ -7,7 +7,6 @@ numpydoc==0.6.0
 pandas==0.20.2
 conda
 setuptools
-scipy==0.19.1
 six==1.15.0
 tensorflow
 tflearn==0.3.2
