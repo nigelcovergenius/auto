@@ -6,7 +6,7 @@ Jinja2>=2.11.3
 numpydoc==0.6.0
 pandas==0.20.2
 miniconda
-pip==21.2.4
+pip>=21.0.0
 setuptools
 six==1.15.0
 tensorflow
