@@ -101,4 +101,4 @@ if __name__ == '__main__':
        _thread.start_new_thread( cleanDirectory, ("Cleaning Thread", 300, ) )
     except:
        print("Error: unable to start thread" )
-    app.run()
+    app.run(debug=False)
