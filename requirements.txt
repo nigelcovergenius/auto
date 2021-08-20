@@ -1,5 +1,4 @@
 args==0.1.0
-pythran-openblas
 Flask>=1.0.0
 Flask-Cors>=3.0.9
 gunicorn==19.7.1
