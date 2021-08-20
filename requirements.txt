@@ -1,10 +1,11 @@
 args==0.1.0
+pythran-openblas
 Flask>=1.0.0
 Flask-Cors>=3.0.9
 gunicorn==19.7.1
 Jinja2>=2.11.3
 numpydoc==0.6.0
-pandas==0.20.2
+pandas>=0.20.2
 pip>=21.0.0
 setuptools
 six==1.15.0
